@@ -1,0 +1,117 @@
+BasicInfo:
+  FirstName: Marat
+  LastName: Tskonyan
+  Photo: img/avatar.jpg
+  Contacts:
+    #- Icon: fas fa-phone
+    # Info:
+    #- Icon: fas fa-envelope
+    # Info:
+    - Icon: fas fa-book
+      Info: Blog
+    - Icon: fab fa-github
+      Info: github.com/MatveyM11
+    - Icon: fas fa-map-marker-alt
+      Info: Spain
+
+Profile: Computer Engineering student from University of Alicante. I'm a quick learner, good at communications and exploration of a new information.
+
+Experience:
+  - Employer: M.A.S. Gestión Inmobiliaria y Administrativa
+    Place: Spain, Alicante
+    Positions:
+      - Title: System Admnistrator
+        Date: Jan 2019 - Sep 2020
+        Details:
+          - Data bases, local network, website administration, authomatization with python.
+        Badges: ['Python', 'SQL', 'Excel', 'Javascript', 'HTML', 'CSS', 'Ghost']
+  - Employer: Institute of Neural Engineering
+    Place: Spain, Alicante
+    Positions:
+      - Title: Bachelor's Degree
+        Date: Sep 2020 - Present
+        Details:
+          - Currently studyin here.
+        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+
+Education:
+  - Course: BSc & MSc in Biomedical Engineering and Biophysics
+    Place: University of Lisbon
+    Date: Sep 2012 - Nov 2017
+    Details: Specialised in Computer Engineering
+
+
+#References:
+#  - Name: Person One
+#    Relation: Co-worker at Super Cool Company
+#    Contacts:
+#    - Icon: fas fa-phone
+#      Info: +44 123 456 790
+#    - Icon: fas fa-envelope
+#      Info: contact@person-one.com
+#    - Icon: fas fa-map-marker-alt
+#      Info: Melbourne, Australia
+#  - Name: Person Two
+#    Relation: Boss at Super Cool Company
+#    Contacts:
+#    - Icon: fas fa-phone
+#      Info: +44 123 456 791
+#    - Icon: fas fa-envelope
+#      Info: contact@person-two.com
+#    - Icon: fas fa-map-marker-alt
+#      Info: Sydney, Australia
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - C++
+      - Python
+      - C
+      - Javascript
+      - CSS
+      - Prolog
+      - SQL
+      - C#
+      - Bash
+      - MATLAB
+      - MIPS Assembly
+  - Family: Web Frameworks
+    Items:
+      -
+      -
+      - Hugo
+      - Ghost
+      - Jekyll
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Heroku
+      - AWS
+  - Family: Misc
+    Items:
+      - Markdown
+      - Adobe Tools
+      - LaTeX
+      - Excel
+      - Godot
+      - Blender
+Languages:
+  - Name: Russian
+    Level: Native
+  - Name: English
+    Level: C1
+  - Name: Spanish
+    Level: B1
+
+Diplomas:
+  -
+
+Interests:
+  - Neural Networks
+  - Swarm Intelligence
+  - Web
+  - Microarchitecture Design
+  - Design
+  - Languages
