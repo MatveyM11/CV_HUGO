@@ -10,9 +10,11 @@ BasicInfo:
  #   - Icon: fas fa-book
   #    Info: Blog
     - Icon: fab fa-github
-      Info: github.com/MatveyM11
+      Info: <a href="github.com/MatveyM11">GitHub</a>
     - Icon: fas fa-map-marker-alt
       Info: Spain
+    - Icon: fab fa-github
+      Info: <a href="https://github.com/MatveyM11/CV_HUGO/blob/main/PDF_CV/Marat%20Tskonyan%20CV.pdf">Русская версия</a>
 
 Profile: Computer Engineering student from University of Alicante. I'm a quick learner, good at communications and exploration of a new information.
 
